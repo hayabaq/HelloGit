@@ -1,2 +1,2 @@
 # HelloGit
-i'm a read me file
+I'm a readme file
